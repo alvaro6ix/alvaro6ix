@@ -99,8 +99,8 @@
 <h3 align="center">Mis Estadísticas</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvaro6ix&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro6ix&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alvaro6ix&show_icons=true&theme=tokyonight&hide_border=true&v=2" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro6ix&layout=compact&theme=tokyonight&hide_border=true&v=2" height="180" alt="languages graph" />
 </div>
 
 ###

@@ -342,9 +342,6 @@ Clasificación de residuos reciclables con **visión por computadora**, panel de
 <a href="https://wa.me/527227453989" target="_blank"><img src="./assets/btn-whatsapp.svg" height="80" alt="WhatsApp" /></a>
 <a href="mailto:alvaro69aldama@gmail.com"><img src="./assets/btn-email.svg" height="80" alt="Email" /></a>
 
-<a href="https://www.instagram.com/alvaroficial_69mx/" target="_blank"><img src="./assets/btn-instagram.svg" height="80" alt="Instagram" /></a>
-<a href="https://www.facebook.com/alvaro.aldama.14" target="_blank"><img src="./assets/btn-facebook.svg" height="80" alt="Facebook" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,45:064e3b,100:070d0a&height=130&section=footer" width="100%" />

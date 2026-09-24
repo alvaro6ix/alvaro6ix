@@ -45,7 +45,7 @@ Construyo **aplicaciones Full Stack escalables**, **PWAs**, **infraestructura en
 | 🧾 **Facturación** | Seguimiento de facturación ligado a cada servicio |
 | ✅ **Calidad** | Registros y control documental conforme a ISO/IEC 17025 |
 | 👥 **Recursos Humanos** | Gestión del personal y su desempeño |
-| 📊 **Analítica** | Reportes mensuales de **cuellos de botella, SLA y desempeño por persona** |
+| 📊 **Analítica** | Reportes mensuales de **KPIs** **cuellos de botella, SLA y desempeño por persona** |
 | 💬 **Bot de WhatsApp** | Atención automatizada con **flujos configurables** desde el CRM |
 | 🌐 **Portal del cliente** | **Estatus del equipo en tiempo real**, descarga de certificados e historial |
 | 🔐 **Seguridad** | **2FA**, control de versiones, trazabilidad total y **3 niveles de respaldo** (Git, VPS y respaldo automatizado) |

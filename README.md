@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070d0a,55:064e3b,100:10b981&height=210&section=header&text=Alvaro%20Aldama&fontSize=56&fontColor=f0fdf4&fontAlignY=36&desc=L%C3%ADder%20de%20Desarrollo%20de%20Software%20y%20TI%20%C2%B7%20Full%20Stack%20%26%20AI%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Alvaro Aldama" />
 
-<img src="https://images.weserv.nl/?url=alvaro-sistemas.netlify.app/assets/img/perfil.jpeg&w=320&h=320&fit=cover&a=attention&mask=circle&maxage=7d" width="190" alt="Alvaro Aldama" />
+
 
 <a href="https://alvaro-sistemas.netlify.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=720&lines=L%C3%ADder+de+Desarrollo+de+Software+y+TI+%40+SICAMET;Full+Stack%3A+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Laravel;IA+aplicada%3A+Gemini+%C2%B7+Claude+%C2%B7+Agentes+%C2%B7+ETL;DevOps%3A+VPS+%C2%B7+Docker+%C2%B7+Cloudflare+%C2%B7+SSL;Bots+de+WhatsApp+%26+Telegram+con+IA" alt="Typing SVG" />

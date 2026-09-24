@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 <img src="https://images.weserv.nl/?url=alvaro-sistemas.netlify.app/assets/img/perfil.jpeg&w=320&h=320&fit=cover&a=attention&mask=circle&maxage=7d" width="190" alt="Alvaro Aldama" />
 
 <a href="https://alvaro-sistemas.netlify.app/">
@@ -23,7 +21,7 @@
 
 Soy **Alvaro Aldama**, **Ingeniero en Sistemas** de 22 años en Toluca, México. Actualmente soy **Líder de Desarrollo de Software y TI** en **SICAMET**, un laboratorio de metrología acreditado bajo **ISO/IEC 17025**, donde soy el único responsable del área de Sistemas: desarrollo, infraestructura, soporte, documentación y capacitación.
 
-Construyo **aplicaciones Full Stack escalables**, **PWAs**, **infraestructura en VPS con Docker** e **integraciones con Inteligencia Artificial** que resuelven problemas reales de operación. Además dirijo juntas de proyecto con dirección, capacito al personal y participo como expositor en temas de **metrología e IA aplicada al laboratorio**.
+Construyo **aplicaciones Full Stack escalables**, **PWAs**, **infraestructura en VPS con Docker** e **integraciones con Inteligencia Artificial** que resuelven problemas reales de operación. Además dirijo juntas de proyecto con dirección, capacito al personal y participe como expositor en temas de **metrología e IA aplicada al laboratorio**.
 
 En paralelo trabajo como **desarrollador freelance** para PYMEs y emprendedores de todo México: webs modernas con animaciones, responsive y posicionamiento **SEO / AEO / GEO**, bots de **WhatsApp y Telegram**, automatizaciones con IA y despliegues en VPS.
 
@@ -42,16 +40,17 @@ En paralelo trabajo como **desarrollador freelance** para PYMEs y emprendedores 
 - Desarrollo del **nuevo sitio web corporativo** en Next.js 16, migrado desde WordPress, con chatbot de IA y SEO / AEO / GEO
 - Dirijo las **juntas de propuesta, capacitación y seguimiento** con dirección y áreas operativas
 - **Capacitación al personal** en todos los sistemas, con instructivos y manuales interactivos por aplicación
-- **Expositor en ponencias de metrología** sobre el uso de IA en el laboratorio, como *Inteligencia Artificial en la validación de hojas de cálculo* (3er Encuentro de Metrología, ISO/IEC 17025 §7.11.2)
+- **Expositor en ponencia de metrología** sobre el uso de IA en el laboratorio y analisis de datos, como *Inteligencia Artificial en la validación de hojas de cálculo* (3er Encuentro de Metrología, ISO/IEC 17025)
 
 **Project Manager & IT** · `Mar 2026 – Sep 2026`
 
 - Diseñé y desarrollé desde cero el **CRM completo de SICAMET**, alineado a ISO/IEC 17025: cotizaciones, órdenes de servicio, metrología, aseguramiento, certificados, facturación, entregas, calidad y RH
 - **Extracción automática de órdenes de servicio con la API de Gemini**, comparativa de certificados con IA y analítica mensual de cuellos de botella, SLA y desempeño por persona
-- **Bot de WhatsApp** con flujos configurables y **portal externo del cliente** con estatus en tiempo real y descarga de certificados
+- **Bot de WhatsApp** con flujos configurables y **portal externo de certificados del cliente** con estatus en tiempo real y descarga de certificados
 - **Generador de certificados (.exe)** con +300 plantillas por magnitud, sobre una base de +1,900 clientes y 16 signatarios
 - **Gestor de contraseñas corporativo** con 2FA, historial de versiones, permisos por rol y bitácora de accesos
 - **Sistema de Tickets & Proyectos** con login de Google, notificaciones por Telegram y tablero de avance
+- Propongo mejoras de hardware, presupuestos y migraciones.
 - **Verificador de perfil térmico** y analizador de datos en Excel / R para validación técnica
 - Infraestructura en **VPS Hostinger con Docker**, Cloudflare, DNS, subdominios, SSL, **2FA** y **3 niveles de respaldo** (Git, VPS y respaldo automatizado)
 - Automatización de archivos y datos, soporte TI (servidor, hardware, software y usuarios), firmas de correo corporativas y material gráfico institucional
@@ -63,9 +62,10 @@ En paralelo trabajo como **desarrollador freelance** para PYMEs y emprendedores 
 **Full Stack Developer & Soporte TI** · `Nov 2025 – Mar 2026`
 
 - PWA de tickets multi-empresa con chat en tiempo real, notificaciones por Telegram y gestión de roles: **100% de adopción y 80% de mejora en tiempos**
-- Prototipo de **ERP para ISP en 3 semanas**: geolocalización, contratos, inventario, PDFs y dashboards
+- Prototipo de **ERP para ISP**: geolocalización, contratos, inventario, PDFs y dashboards
 - Automatización en Python para migrar **+50,000 registros CSV → SQL**, reduciendo errores en 95%
 - Soporte técnico empresarial, correos, hosting y DNS
+- Configuración de Reuters 
 
 `Laravel` `React` `MySQL` `Firebase` `Python` `Telegram API` `PWA`
 
@@ -84,7 +84,6 @@ En paralelo trabajo como **desarrollador freelance** para PYMEs y emprendedores 
 
 - Webs, landings y e-commerce para PYMEs y emprendedores
 - Automatización con Python, Node.js e IA (Gemini / Claude), PWAs y ejecutables .exe
-- Despliegue y administración de VPS, Docker, dominios, subdominios y DNS
 
 ---
 
@@ -197,12 +196,12 @@ En paralelo trabajo como **desarrollador freelance** para PYMEs y emprendedores 
 
 <br/>
 
-<img src="./assets/skills-backend.svg" width="49%" alt="Backend" />
-<img src="./assets/skills-frontend.svg" width="49%" alt="Frontend" />
-<img src="./assets/skills-ia.svg" width="49%" alt="IA y Automatización" />
-<img src="./assets/skills-devops.svg" width="49%" alt="DevOps" />
-<img src="./assets/skills-apis.svg" width="49%" alt="APIs e Integraciones" />
-<img src="./assets/skills-apps.svg" width="49%" alt="Apps, Datos y Soporte" />
+<img src="./assets/skills-backend.svg" width="39%" alt="Backend" />
+<img src="./assets/skills-frontend.svg" width="39%" alt="Frontend" />
+<img src="./assets/skills-ia.svg" width="39%" alt="IA y Automatización" />
+<img src="./assets/skills-devops.svg" width="39%" alt="DevOps" />
+<img src="./assets/skills-apis.svg" width="39%" alt="APIs e Integraciones" />
+<img src="./assets/skills-apps.svg" width="39%" alt="Apps, Datos y Soporte" />
 
 </div>
 
@@ -327,14 +326,6 @@ Clasificación de residuos reciclables con **visión por computadora**, panel de
 <div align="center">
 
 <a href="https://github.com/alvaro6ix"><img src="https://streak-stats.demolab.com?user=alvaro6ix&theme=dark&hide_border=true&background=0B1410&ring=10B981&fire=34D399&currStreakLabel=34D399&sideLabels=D1FAE5&currStreakNum=F0FDF4&sideNums=F0FDF4&dates=86A896&stroke=1F3A2D&locale=es&border_radius=18" alt="Racha de contribuciones" /></a>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvaro6ix/alvaro6ix/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvaro6ix/alvaro6ix/output/snake.svg" />
-  <img alt="Contribuciones" src="https://raw.githubusercontent.com/alvaro6ix/alvaro6ix/output/snake-dark.svg" />
-</picture>
 
 </div>
 

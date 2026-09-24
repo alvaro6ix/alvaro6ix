@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300"><defs><linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#059669"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1410"/><stop offset="1" stop-color="#070d0a"/></linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="tx" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#a7f3d0"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#34d399" stroke-opacity=".06"/></pattern></defs>
+<style>.k{font:600 14px 'JetBrains Mono','Fira Code',Consolas,monospace;fill:#34d399}.h{font:800 40px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#f0fdf4}.s{font:500 16px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#a3c4b3}
+.num{font:800 30px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:url(#tx)}.lab{font:500 14px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#a3c4b3}
+.fi{animation:f .9s ease-out both}@keyframes f{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+.o{animation:o 6s ease-in-out infinite}@keyframes o{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+.dot{animation:b 1.6s ease-in-out infinite}@keyframes b{50%{opacity:.25}}</style>
+<rect x="1" y="1" width="898" height="298" rx="24" fill="url(#bd)"/><rect x="3" y="3" width="894" height="294" rx="22" fill="url(#bg)"/>
+<rect x="3" y="3" width="894" height="294" rx="22" fill="url(#grid)"/>
+<circle class="o" cx="800" cy="70" r="80" fill="#10b981" opacity=".12"/>
+<text x="40" y="54" class="k">// proyecto insignia</text>
+<circle class="dot" cx="732" cy="49" r="5" fill="#10b981"/><text x="744" y="54" class="k">en producción</text>
+<text x="40" y="104" class="h">SICAMET CRM</text>
+<text x="40" y="140" class="s">Plataforma integral para laboratorio de metrología · alineada a ISO/IEC 17025</text>
+<g class="fi" style="animation-delay:0.2s"><rect x="40" y="176" width="190" height="88" rx="16" fill="#0f1f18" stroke="#1f4a36"/>
+<text x="60" y="222" class="num">61</text><text x="60" y="248" class="lab">módulos</text></g><g class="fi" style="animation-delay:0.35s"><rect x="250" y="176" width="190" height="88" rx="16" fill="#0f1f18" stroke="#1f4a36"/>
+<text x="270" y="222" class="num">12</text><text x="270" y="248" class="lab">áreas operativas</text></g><g class="fi" style="animation-delay:0.5s"><rect x="460" y="176" width="190" height="88" rx="16" fill="#0f1f18" stroke="#1f4a36"/>
+<text x="480" y="222" class="num">2FA</text><text x="480" y="248" class="lab">+ 3 respaldos</text></g><g class="fi" style="animation-delay:0.6499999999999999s"><rect x="670" y="176" width="190" height="88" rx="16" fill="#0f1f18" stroke="#1f4a36"/>
+<text x="690" y="222" class="num">IA</text><text x="690" y="248" class="lab">Gemini integrada</text></g></svg>

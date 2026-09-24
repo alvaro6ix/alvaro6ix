@@ -1,25 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230">
-<defs>
- <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset=".55" stop-color="#172554"/><stop offset="1" stop-color="#083344"/></linearGradient>
- <linearGradient id="tx" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
- <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern>
-</defs>
-<style>
- .h{font:800 38px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
- .p{font:500 17px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#cbd5e1}
- .tag{font:600 13px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#e2e8f0}
- .o1{animation:f 6s ease-in-out infinite}.o2{animation:f 7s ease-in-out infinite reverse}
- @keyframes f{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
- .dot{animation:b 1.6s ease-in-out infinite}@keyframes b{0%,100%{opacity:1}50%{opacity:.25}}
-</style>
-<rect width="900" height="230" rx="24" fill="url(#g)"/>
-<rect width="900" height="230" rx="24" fill="url(#grid)"/>
-<circle class="o1" cx="790" cy="60" r="80" fill="#06b6d4" opacity=".16"/>
-<circle class="o2" cx="720" cy="190" r="60" fill="#8b5cf6" opacity=".18"/>
-<rect x="44" y="34" width="240" height="30" rx="15" fill="#22c55e" fill-opacity=".14" stroke="#22c55e" stroke-opacity=".5"/>
-<circle class="dot" cx="64" cy="49" r="5" fill="#22c55e"/>
-<text x="78" y="54" class="tag">Disponible para proyectos</text>
-<text x="44" y="116" class="h" fill="#f8fafc">¿Tienes un proyecto en mente?</text>
-<text x="44" y="158" class="h" fill="url(#tx)">Hagámoslo realidad.</text>
-<text x="44" y="198" class="p">Freelance · Colaboraciones · Full-time  —  100% remoto desde Toluca, México</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230"><defs><linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#059669"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1410"/><stop offset="1" stop-color="#070d0a"/></linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="tx" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#a7f3d0"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#34d399" stroke-opacity=".06"/></pattern></defs>
+<style>.h{font:800 38px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}.p{font:500 17px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#a3c4b3}.tag{font:600 13px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#d1fae5}.k{font:600 14px 'JetBrains Mono','Fira Code',Consolas,monospace;fill:#34d399}
+.o1{animation:f 6s ease-in-out infinite}.o2{animation:f 7s ease-in-out infinite reverse}@keyframes f{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
+.dot{animation:b 1.6s ease-in-out infinite}@keyframes b{50%{opacity:.25}}.cur{animation:c 1s steps(1) infinite}@keyframes c{50%{opacity:0}}</style>
+<rect x="1" y="1" width="898" height="228" rx="24" fill="url(#bd)"/><rect x="3" y="3" width="894" height="224" rx="22" fill="url(#bg)"/>
+<rect x="3" y="3" width="894" height="224" rx="22" fill="url(#grid)"/>
+<circle class="o1" cx="790" cy="60" r="80" fill="#10b981" opacity=".13"/><circle class="o2" cx="720" cy="190" r="56" fill="#34d399" opacity=".10"/>
+<rect x="40" y="30" width="236" height="30" rx="15" fill="#10b981" fill-opacity=".14" stroke="#10b981" stroke-opacity=".55"/>
+<circle class="dot" cx="60" cy="45" r="5" fill="#34d399"/><text x="74" y="50" class="tag">Disponible para proyectos</text>
+<text x="650" y="50" class="k">alvaro69aldama ~$<tspan class="cur"> _</tspan></text>
+<text x="40" y="114" class="h" fill="#f0fdf4">¿Tienes un proyecto en mente?</text>
+<text x="40" y="158" class="h" fill="url(#tx)">Hagámoslo realidad.</text>
+<text x="40" y="198" class="p">Freelance · Colaboraciones · Full-time  —  100% remoto desde Toluca, México</text></svg>
